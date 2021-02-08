@@ -8,3 +8,6 @@ This code will:
   Begin playback
   
 So it basically turns your TV into an alarm clock that plays Spotify. Enjoy!
+
+This project uses the sunrise-sunset API:
+https://sunrise-sunset.org/api
