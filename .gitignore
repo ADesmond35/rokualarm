@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# other
+logwakeup.log
+tokens.json
+list_variables.py
+coordinates.json
