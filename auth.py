@@ -1,4 +1,4 @@
-#! python3
+#! /bin/python3
 import os
 import re
 import string
