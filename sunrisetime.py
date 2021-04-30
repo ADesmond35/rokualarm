@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! python3
 import os
 import requests
 import json
@@ -15,7 +15,7 @@ ref = f"https://api.sunrise-sunset.org/json"
 params = {
     'lat': data["lat"],
     'lng': data["lng"],
-    'date': 'tomorrow', 
+    'date': 'tomorrow',
     'formatted': 0
     }
 

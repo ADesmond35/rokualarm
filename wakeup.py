@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! python3
 import os
 import requests
 import json
@@ -118,8 +118,3 @@ if True:
         print(f"Playback start failed, Response text: \n{r.text}")
         attempts += 1
         time.sleep(3)
-
-
-
-
- 
